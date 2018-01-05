@@ -12,6 +12,9 @@ https://gitee.com/didispace/SpringBoot-Learning
 http://oopsguy.com/documents/springboot-docs/1.5.4/index.html
 
 
+## 最简单
+https://www.jianshu.com/p/80a9c91fa89b
+
 ## 总结
 spring-boot-starter-web 集成了 SpringMVC
 
